@@ -3,7 +3,7 @@
 <!--
 **thevibeinme/thevibeinme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-👋 Hi, I’m @Yashwant-Sing
+👋 Hi, I’m @Yashwant-Singh
 - 👀 I’m interested in Web web Development
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on 
